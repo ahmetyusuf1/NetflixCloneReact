@@ -1,6 +1,8 @@
 <h1>Netflix Clone Project</h1>
 
-<p>netflix</p>
+<p>This project is a movie website (Netflix Clone) application developed with React.  Movies are listed in the project and there is a detail page for each movie. On the detail page, information about the movie, production companies, languages ​​spoken, 
+budget, income,
+production countries and actors are included.</p>
 
 <h2>Used Technologies</h2>
 
